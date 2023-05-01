@@ -1,2 +1,2 @@
-# Job-scraper-col
-A web scraper to dig info about tech job offers from the most important Colombian job search web pages
+# ColJobScraper
+A web scraper to dig-up and analyze info about tech job offers from the most important Colombian job search web pages
